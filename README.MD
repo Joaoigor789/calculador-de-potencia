@@ -31,8 +31,8 @@ cd seu-projeto
 
 
 ruby calculo_potencia.rb
-
-
+```
+------
 
 ## Roadmap
 Fase 1: Fundamentos (Atual)
@@ -69,17 +69,14 @@ Sugerir novas funcionalidades
 
 Enviar pull requests
 
----
-
-Licença
-Este projeto está sob a licença MIT.
-
-
 -----
 ## rede social:
 Seu Nome:https://www.linkedin.com/in/joao-igor-25b090250/
 
 ---
+
+## Licença
+Este projeto está sob a licença MIT.
 
 ```text
 MIT License
