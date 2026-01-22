@@ -5,7 +5,7 @@
 number = [10, 11, 12]
 
 
-#item
+# Item de controle
 i=0
 
 10..13.times do 
