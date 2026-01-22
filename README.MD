@@ -71,7 +71,7 @@ Enviar pull requests
 
 -----
 ## rede social:
-Seu Nome:https://www.linkedin.com/in/joao-igor-25b090250/
+Linkedin:https://www.linkedin.com/in/joao-igor-25b090250/
 
 ---
 
